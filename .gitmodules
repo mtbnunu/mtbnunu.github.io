@@ -1,0 +1,3 @@
+[submodule "factorio-calc"]
+	path = factorio-calc
+	url = git@github.com:mtbnunu/factorio-calc.git
